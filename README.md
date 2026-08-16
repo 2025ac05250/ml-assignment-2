@@ -21,7 +21,11 @@ The dataset contains demographic and employment-related information. After remov
 
 The repository contains the notebook, Streamlit application, requirements file, test data, and saved model files.
 
-## 4. Models and Evaluation
+## 4. Streamlit App Link
+
+**URL:** https://2025ac05250-ml-assignment-2.streamlit.app/
+
+## 5. Models and Evaluation
 
 ### Models Used
 
